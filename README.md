@@ -91,6 +91,6 @@ end
 <div align=center>
 
 ### My Spotify Activity
-[![Spotify Stats](https://spotify-github-profile.vercel.app/api/view.svg?uid=urmnvmr6k0zhur4v6sd9ad32x&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=urmnvmr6k0zhur4v6sd9ad32x&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=urmnvmr6k0zhur4v6sd9ad32x&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=urmnvmr6k0zhur4v6sd9ad32x&redirect=true)
 
 </div>
