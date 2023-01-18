@@ -5,7 +5,7 @@
 </div>
 
 <p>
-Just your average tech nerd with a passion for coding. I am currently pursuing Bachelors in Technology in AI & ML from VSE&T. I have great knowledge of Python and FLask and am currently learning React with TypeScript. I am also a vital and founding member of the technical society of my college.
+Just your average tech nerd with a passion for coding. I am currently pursuing Bachelors in Technology in AI & ML from VSE&T. I am currently working with React and TypeScript developing the ERP of my college. I am also a vital and founding member of the technical society of my college.
 </p>
 <p align="center"> 
 When I'm not coding find me playing video games, jamming to music or spending time with friends.
@@ -14,9 +14,9 @@ When I'm not coding find me playing video games, jamming to music or spending ti
 <div align="center">
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/singhalachal/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/urmnvmr6k0zhur4v6sd9ad32x?si=dfbd8e487241430d"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:achals2002@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>
+<a href="https://www.linkedin.com/in/singhalachal/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
+<a href="mailto:achals2002@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/urmnvmr6k0zhur4v6sd9ad32x?si=dfbd8e487241430d"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408697.png"></a>&nbsp;&nbsp;
  </p>
 
 </div>
@@ -30,7 +30,7 @@ class iglu < Person
     @name = 'Achal Singhal'
     @age = 20
     @education = [ 'Vivekanana School of Professional Studies', 'Bal Bharati Public School' ]
-    @hobbies = [ 'Videogames', 'Goofy Shows', 'Music' ]
+    @hobbies = [ 'Video Games', 'Silly Goofy Shows', 'Music' ]
   end
 
   def current_location
@@ -41,7 +41,7 @@ class iglu < Person
   def currently
     {
       studying: [ 'Artificial Intelligence and Machine Learning' ],
-      tinkering: [ 'React', 'Typescript' ]
+      tinkering: [ 'React', 'Typescript', 'Next.JS' ]
      }
   end
 end
@@ -52,24 +52,27 @@ end
 ### What I always play with
 
 <div>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="Next.js" height="50" /></a> 
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" height="50" /></a>
 </div>
+
 
 ### What I sometimes play with
 
 <div>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -83,14 +86,15 @@ end
 <br>
 
 ### Quick stats about me
-| Github Stats | Top Languages |
-| ------------ | ------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchalS-iglu&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalS-iglu&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
+| Github Stats                                                                                                                                                                     | Top Languages                                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchalS-iglu&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalS-iglu&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
 
 <div align=center>
 
 ### My Spotify Activity
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=urmnvmr6k0zhur4v6sd9ad32x&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=urmnvmr6k0zhur4v6sd9ad32x&redirect=true)
 
 </div>
