@@ -5,7 +5,7 @@
 </div>
 
 <p>
-Just your average tech nerd with a passion for coding. I am currently pursuing Bachelors in Technology in AI & ML from VSE&T. I am currently working with React and TypeScript to develop the official ERP of my college. I am also a vital and founding member of the technical society of my college.
+Just your average tech nerd with a passion for coding. I am currently pursuing Bachelors in Technology in AI & ML from VSE&T. I am currently working with React and TypeScript to develop an ERP software for my college. I am also a vital and founding member of the technical society of my college.
 </p>
 <p align="center"> 
 When I'm not coding find me playing video games, jamming to music or spending time with friends.
