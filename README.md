@@ -5,10 +5,10 @@
 </div>
 
 <p>
-Just your average tech nerd with a passion for coding. I am currently pursuing Bachelors in Technology in AI & ML from VSE&T. I am currently working with React and TypeScript to develop an ERP software for my college. I am also a vital and founding member of the technical society of my college.
+Just your average tech nerd with a passion for coding.
 </p>
 <p align="center"> 
-When I'm not coding find me playing video games, jamming to music or spending time with friends.
+When I'm not coding find me playing video games, jamming to music or spending time with friends. (honestly, I just spend that time watching theo or similar on youtube)
 </p>
 
 <div align="center">
@@ -55,7 +55,9 @@ end
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="50" /></a> 
+<a href="https://kit.svelte.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.sv" alt="Svelte" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="Next.js" height="50" /></a> 
@@ -71,7 +73,6 @@ end
 ### What I sometimes play with
 
 <div>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="50" /></a>  
@@ -89,7 +90,7 @@ end
 
 | Github Stats                                                                                                                                                                     | Top Languages                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchalS-iglu&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalS-iglu&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchalS-iglu&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalS-iglu&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
 
 <div align=center>
 
