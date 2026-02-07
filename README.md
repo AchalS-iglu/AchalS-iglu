@@ -54,6 +54,11 @@ I build production software where **latency, cost, reliability, and safety** are
 
 ---
 
+### Metrics (auto-updated)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/AchalS-iglu/AchalS-iglu/master/github-metrics.svg" alt="Metrics" />
+</p>
+
 ### Optional (lightweight) GitHub stats
 <!-- If you dislike stats widgets, delete this section. -->
 <p align="left">
